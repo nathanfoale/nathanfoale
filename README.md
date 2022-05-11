@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nathanfoale
-- 👀 I’m interested in software development, data analysis
+- 👀 I’m interested in software development, data science
 - 🌱 I’m currently learning computer information systems
 - 💞️ I’m looking to collaborate on any beginner friendly projects
 - 📫 How to reach me: natfoale@gmail.com

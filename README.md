@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nathanfoale
-- 👀 I’m interested in web development, AI & data science
-- 🌱 I’m currently learning econometrics and mathematics
+- 👀 I’m curious about AI, Data Science, Mathematics
+- 🌱 I’m currently studying econometrics and mathematics
 - 💞️ I’m looking to collaborate on any beginner friendly projects
 - 📫 How to reach me: natfoale@gmail.com
 

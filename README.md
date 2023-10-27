@@ -3,6 +3,7 @@
 - 🌱 I’m currently studying econometrics and mathematics
 - 💞️ I’m looking to collaborate on any beginner friendly projects
 - 📫 How to reach me: natfoale@gmail.com
+- 💻 My Mathematical Visualisation Animation: https://youtu.be/h08XZwRaAuk?si=W19UipqZj424LmsO
 
 <!---
 nathanfoale/nathanfoale is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

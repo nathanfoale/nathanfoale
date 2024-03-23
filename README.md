@@ -17,8 +17,10 @@ Visualization: Tableau, MANIM engine
 
 👋🏻 Connect with Me
 
-Linkedin:
+Linkedin: www.linkedin.com/in/nathanfoale
+
 Website: nathanfoale.com
+
 Email: natfoale@gmail.com
 <!---
 nathanfoale/nathanfoale is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

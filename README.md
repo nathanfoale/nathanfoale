@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @nathanfoale
-- 👀 I’m curious about AI, Data Science, Mathematics
-- 🌱 I’m currently studying econometrics and mathematics
-- 💞️ I’m looking to collaborate on any beginner friendly projects
+- 👋 Hi, I’m Nathan Foale
+- 📚 I’m currently a student at Monash University studying econometrics and mathematics
 - 📫 How to reach me: natfoale@gmail.com
 - 💻 My Mathematical Visualisation Animation: https://youtu.be/h08XZwRaAuk?si=W19UipqZj424LmsO
 

@@ -19,7 +19,7 @@ Visualization: Tableau, MANIM engine
 
 Linkedin: www.linkedin.com/in/nathanfoale
 
-Website: nathanfoale.com
+Website: www.nathanfoale.com
 
 Email: natfoale@gmail.com
 <!---

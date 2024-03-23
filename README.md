@@ -5,7 +5,7 @@
 
 📚 Projects
 
-Welcome to my portfolio, where I showcase my projects.
+Welcome to my portfolio, where I showcase my projects README.md
 
 🛠️ Tools
 

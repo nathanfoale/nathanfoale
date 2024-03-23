@@ -5,7 +5,7 @@
 
 📚 Projects
 
-Welcome to my portfolio, where I showcase my projects [Portfolio/README.md](https://github.com/nathanfoale/Portfolio/tree/main)
+Welcome to my portfolio, where I showcase my [projects](https://github.com/nathanfoale/Portfolio/tree/main)
 
 🛠️ Tools
 

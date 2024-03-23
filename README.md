@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Nathan Foale
 - 📚 I’m currently a student at Monash University studying econometrics and mathematics
 - 📫 How to reach me: natfoale@gmail.com
-- 💻 My Mathematical Visualisation Animation: https://youtu.be/h08XZwRaAuk?si=W19UipqZj424LmsO
 
 📚 Projects
 

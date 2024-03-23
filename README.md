@@ -5,11 +5,11 @@
 
 📚 Projects
 
-Welcome to my portfolio, where I showcase my [projects](https://github.com/nathanfoale/Portfolio/tree/main)
+Welcome to my portfolio, where I showcase my [Projects](https://github.com/nathanfoale/Portfolio/tree/main)
 
 🛠️ Tools
 
-Language: Python, R
+Languages: Python, R
 
 Statistical: STATA, EViews
 

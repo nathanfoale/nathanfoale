@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nathan Foale
-- 📚 I’m currently a student at Monash University studying econometrics and mathematics
+- 📚 I’m currently a student at Monash University majoring in econometrics, with minors in mathematics and economics.
 - 📫 How to reach me: natfoale@gmail.com
 
 📚 Projects

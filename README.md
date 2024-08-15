@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nathan Foale
-- 📚 I’m currently a student at Monash University majoring in econometrics, with minors in mathematics and economics.
+- 📚 I’m currently a student at Monash University.
 - 📫 How to reach me: natfoale@gmail.com
 
 📚 Projects
@@ -8,11 +8,11 @@ Welcome to my portfolio, where I showcase my [Projects](https://github.com/natha
 
 🛠️ Tools
 
-Languages: Python, R
+Languages: R, Python
 
 Statistical: STATA, EViews
 
-Visualization: Tableau, MANIM engine
+Visualization: MANIM engine
 
 👋🏻 Connect with Me
 

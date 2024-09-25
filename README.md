@@ -8,11 +8,11 @@ Welcome to my portfolio, where I showcase my [Projects](https://github.com/natha
 
 🛠️ Tools
 
-Languages: R, Python
+Languages: R, Python, JavaScript
 
 Statistical: STATA, EViews
 
-Visualization: MANIM engine
+Visualisation: MANIM engine
 
 👋🏻 Connect with Me
 

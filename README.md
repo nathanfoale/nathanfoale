@@ -10,6 +10,8 @@ Welcome to my portfolio, where I showcase my [Projects](https://github.com/natha
 
 Languages: R, Python, JavaScript
 
+Frameworks: React, Next.js  
+
 Statistical: STATA, EViews
 
 Visualisation: MANIM engine

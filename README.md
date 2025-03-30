@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nathan Foale
-- 👨‍🎓 I recently graduated from Monash University majoring in econometrics with a double minor in mathematics and economics
+- 👨‍🎓 I recently graduated from Monash University majoring in Econometrics
 - 👨🏻‍💻 I'd like to collaborate with people from diverse domains to work on interesting and impactful projects
 - 📫 How to reach me: natfoale@gmail.com
 
